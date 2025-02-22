@@ -1,5 +1,5 @@
 import "./App.css";
-import HeroSection from "./components/Hero";
+import HeroSection from "./components/hero";
 import Navigation from "./components/Navigation";
 const App = () => {
   return (
